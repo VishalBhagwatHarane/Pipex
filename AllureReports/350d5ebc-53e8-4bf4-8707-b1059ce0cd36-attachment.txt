@@ -1,0 +1,17 @@
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:13 Testcase test_CredKart_url_DDT_002 is started
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:14 Opening browser
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:18 Click On login Link
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:38 Click Login Button
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:40 Verify Login Stauts
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:42 Taking screenshot
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:38 Click Login Button
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:40 Verify Login Stauts
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:64 Taking screenshot
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:38 Click Login Button
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:40 Verify Login Stauts
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:64 Taking screenshot
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:38 Click Login Button
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:40 Verify Login Stauts
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:64 Taking screenshot
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:75 Testcase test_user_login_DDT_002 is Pass
+[32mINFO    [0m Test_CredKart_Login_DDT:test_Credkart_Login_DDT02.py:77 Testcase test_user_login_DDT_002 is Completed

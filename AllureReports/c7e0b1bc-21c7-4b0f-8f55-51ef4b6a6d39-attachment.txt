@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_pinx:test_Person_03.py:15 Testcase test_user_login_002 is started
+[32mINFO    [0m Test_pinx:test_Person_03.py:16 Opening browser
+[32mINFO    [0m Test_pinx:test_Person_03.py:21 Click On login Link
+[32mINFO    [0m Test_pinx:test_Person_03.py:22 Enter Emailadmin@demo.com
+[32mINFO    [0m Test_pinx:test_Person_03.py:24 Enter Password123456
+[32mINFO    [0m Test_pinx:test_Person_03.py:26 Click Login Button
